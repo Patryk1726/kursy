@@ -1,3 +1,0 @@
->>> from doc_test import add
->>> add(5, 6)
-11
